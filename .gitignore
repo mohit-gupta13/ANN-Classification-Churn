@@ -204,8 +204,3 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
-<<<<<<< HEAD
-__marimo__/
-=======
-__marimo__/
->>>>>>> 2491621 (first commit)
